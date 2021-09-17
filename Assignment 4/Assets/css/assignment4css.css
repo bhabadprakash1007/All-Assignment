@@ -1,0 +1,26 @@
+.rectangle {
+    height: 100px;
+    width: 1500px;
+    background-color: darkslateblue;
+  }
+  .rectangle1{
+      height: 2px;
+      width: 1500px;
+      background-color: darkslateblue;
+  }
+  .p1{
+      text-align: justify;
+      font-family: Copperplate, fantasy;
+}
+.img1{
+      padding-left: 3%;
+}
+body, html {
+    font
+    height: ;
+    color: #777;
+    line-height: 1.8;
+}
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Lato", sans-serif;
+}
